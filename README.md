@@ -1,4 +1,4 @@
-*Dump out the complete contents of a file with cat like this: cat /var/log/apache2/access.log
+DEMO!
 *Use less to open the same file, like this: less /var/log/apache2/access.log - and move up and down through the file with your arrow keys, then use “q” to quit.
 *Again using less, look at a file, but practice confidently moving around using gg, GG and /, n and N (to go to the top of the file, bottom of the file, to search for something and to hop to the next "hit" or back to the previous one)
 *View recent logins and sudo usage by viewing /var/log/auth.log with less
